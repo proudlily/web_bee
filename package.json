@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "amazeui-react": "^1.0.1"
+    "amazeui-react": "^1.0.1",
+    "amazeui-touch": "0.1.0-beta2",
+    "gulp": "^3.9.0"
   }
 }
